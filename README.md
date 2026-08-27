@@ -8,3 +8,9 @@
 - [فایل SHA-256](mobile/EhsanFilm-Android-Mobile-v1.0.0-alpha8-SHA256.txt)
 
 این مخزن فقط شامل خروجی‌های نهایی و امضاشده است. سورس برنامه و کلید امضا در این مخزن نگهداری نمی‌شوند.
+
+
+## Android Mobile alpha9
+
+- APK: `mobile/EhsanFilm-Android-Mobile-v1.0.0-alpha9.apk`
+- SHA256: `mobile/EhsanFilm-Android-Mobile-v1.0.0-alpha9-SHA256.txt`
