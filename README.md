@@ -14,3 +14,9 @@
 
 - APK: `mobile/EhsanFilm-Android-Mobile-v1.0.0-alpha9.apk`
 - SHA256: `mobile/EhsanFilm-Android-Mobile-v1.0.0-alpha9-SHA256.txt`
+
+
+## Android Mobile alpha10
+
+- APK: `mobile/EhsanFilm-Android-Mobile-v1.0.0-alpha10.apk`
+- SHA256: `mobile/EhsanFilm-Android-Mobile-v1.0.0-alpha10-SHA256.txt`
